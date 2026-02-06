@@ -1,0 +1,13 @@
+{
+    "books": [
+        {
+            "id": "B-WOBEG",
+            "title": "Master Your Emotions",
+            "author": "THIBAUT MEURISSE",
+            "total_copies": 20,
+            "available_copies": 20,
+            "added_on": "2026-02-06 10:29:55"
+        }
+    ],
+    "members": []
+}
