@@ -26,7 +26,7 @@ python main.py
 streamlit run stream.py
 
 ## Learning Purpose
-This project is for learning Python, OOP, file handling, and debugging.
+This project is for learning Python, OOP, file handling, and debugging. 
 
 ## Author
 Zaryab Khan
